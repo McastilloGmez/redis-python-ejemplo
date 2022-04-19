@@ -6,4 +6,5 @@
   * redis-py
   * requests
 * Es necesario tener instalado Redis en algún servidor Linux
+* Es necesario configurar host y port respectivo al servidor de Redis
 
