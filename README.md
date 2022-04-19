@@ -5,4 +5,5 @@
   * Flask
   * redis-py
   * requests
+* Es necesario tener instalado Redis en algún servidor Linux
 
